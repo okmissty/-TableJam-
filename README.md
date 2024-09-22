@@ -1,5 +1,5 @@
 # 🎵 EarSketch-Songs
-Songs I've made programming in Python with Earsketch!
+Electronic Songs I've made programming in Python with Earsketch!
 
 These two songs were made in 2021 for a highschool project and competition. I came in first place voted by the faculty!
 
